@@ -1,6 +1,6 @@
 {
   "name": "wcs-docker-phpmyadmin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Start a mysql/phpmyadmin service with specific db, user, port",
   "main": "index.js",
   "scripts": {
