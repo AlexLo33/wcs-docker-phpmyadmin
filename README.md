@@ -1,9 +1,26 @@
 # Docker Creator - MySQL / PHPMyAdmin
 
-Create an yml file with specific db, user, port
+_By AlexLoWCD /  Wild Code School_
 
-Can start/stop any created docker
+**CLI Application to create / start / stop a docker with MySQL and PHPMyAdmin from anywhere**
 
-_By AlexLoWCD_
+## Prerequisites
 
-_Wild Code School_
+1. Unix Environment
+2. Docker installed
+
+## Installation
+
+```sh
+npm i -g wcs-docker-phpmyadmin
+```
+
+## Start Application
+
+> First, you have to create a directory where all of your dockers will be stored
+
+> Then, open a terminal in this directory and launch the application
+
+```sh
+wcs-docker-phpmyadmin start
+```
