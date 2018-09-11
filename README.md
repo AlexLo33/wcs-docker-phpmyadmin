@@ -1,7 +1,5 @@
 # Docker Creator - MySQL / PHPMyAdmin
 
-_By AlexLoWCD /  Wild Code School_
-
 **CLI Application to create / start / stop a docker with MySQL and PHPMyAdmin from anywhere**
 
 ## Prerequisites
